@@ -31,16 +31,3 @@ for i in range(1, 11):
     print(f"{i} squared is {square}")
 
 
-def(mari&tekla){
-    if mari()
-        return:"mate kys"
-        print(ara shansi argak)
-    
-    if else(tekla){
-        return:shen ro kacma gixmara;
-        print(ra kategorias miekutvnebi)
-    }
-    elif(nika){
-        print(es prosta babnikia)
-    }
-}
