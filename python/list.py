@@ -32,3 +32,5 @@ fruits.reverse()
 # sort() | Sorts the list
 cars = ['Ford', 'BMW', 'Volvo']
 cars.sort()
+
+

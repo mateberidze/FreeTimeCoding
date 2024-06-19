@@ -3,3 +3,7 @@ def celsius_to_fahrenheit(celsius):
 
 celsius = float(input(f"please enter temperature in celsius:"))
 print(f"temperature in celsius:", celsius_to_fahrenheit(celsius))
+
+
+
+
